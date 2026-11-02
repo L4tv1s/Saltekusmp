@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Gintaras",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Saltekusmp.aternos.me",
-    "port": 50909,
+    "ip": "GintaroSMP.aternos.me",
+    "port": 29025,
     "version": "",
     "try-creative": false
   },
